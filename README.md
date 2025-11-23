@@ -1,4 +1,4 @@
-# us-markets-eda
+## US Markets EDA
 **Exploratory Data Analysis (EDA) on US Markets**
 
 This repository contains Jupyter notebooks and Python scripts for analyzing key US market indicators, including:
