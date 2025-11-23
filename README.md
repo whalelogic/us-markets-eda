@@ -73,6 +73,12 @@ Place your datasets in the data/ directory.
 Open a Jupyter notebook (e.g., sp500_analysis.ipynb) and run the cells to perform EDA.
 Use the scripts/ directory for reusable Python functions.
 
+---
+<img width="797" height="600" alt="image" src="https://github.com/user-attachments/assets/148e3cfe-14d6-4f19-86d5-c955ee2b2cf7" />
+---
+
+
+
 ### Contributing
 Contributions are welcome! Open an issue or submit a pull request for:
 
